@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMethodDemo/MyMethodDemo.iml" filepath="$PROJECT_DIR$/MyMethodDemo/MyMethodDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAPI/myAPI.iml" filepath="$PROJECT_DIR$/myAPI/myAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myAbstract/myAbstract.iml" filepath="$PROJECT_DIR$/myAbstract/myAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArgs/myArgs.iml" filepath="$PROJECT_DIR$/myArgs/myArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArray/myArray.iml" filepath="$PROJECT_DIR$/myArray/myArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArrayList/myArrayList.iml" filepath="$PROJECT_DIR$/myArrayList/myArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myArrays/myArrays.iml" filepath="$PROJECT_DIR$/myArrays/myArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCalendar/myCalendar.iml" filepath="$PROJECT_DIR$/myCalendar/myCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myClass/myClass.iml" filepath="$PROJECT_DIR$/myClass/myClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDate/myDate.iml" filepath="$PROJECT_DIR$/myDate/myDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDebug/myDebug.iml" filepath="$PROJECT_DIR$/myDebug/myDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDoual/myDoual.iml" filepath="$PROJECT_DIR$/myDoual/myDoual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/myInteger/myInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLIst/myLIst.iml" filepath="$PROJECT_DIR$/myLIst/myLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMath/myMath.iml" filepath="$PROJECT_DIR$/myMath/myMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMethod/myMethod.iml" filepath="$PROJECT_DIR$/myMethod/myMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myModifier/myModifier.iml" filepath="$PROJECT_DIR$/myModifier/myModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myObject/myObject.iml" filepath="$PROJECT_DIR$/myObject/myObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySet/mySet.iml" filepath="$PROJECT_DIR$/mySet/mySet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" filepath="$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySystem/mySystem.iml" filepath="$PROJECT_DIR$/mySystem/mySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTest/myTest.iml" filepath="$PROJECT_DIR$/myTest/myTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
+    </modules>
+  </component>
+</project>
