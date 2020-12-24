@@ -18,6 +18,14 @@ package bn.demo02;
 
 public class MethodTest {
     public static void main(String[] args) {
-
+        isEvenNumber(10, 20);
     }
+    public static void isEvenNumber(int a, int b) {
+        if ( a > b) {
+            System.out.println("a > b");
+        } else {
+            System.out.println("a < b");
+        }
+    }
+
 }

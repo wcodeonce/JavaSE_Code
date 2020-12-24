@@ -18,6 +18,24 @@ package cn.demo03;
 
 public class MethodTest {
     public static void main(String[] args) {
+        //在 main() 方法中调用定义好的方法并用变量保存
+        int a = 33;
+        int b = 99;
+
+        int max = getMax(a, b);
+
+        //输出结果
+        System.out.println("两数中的较大值:"+max);
 
     }
+
+    //定义一个方法，用于获取两个数字中的较大值
+    public static int getMax(int a, int b) {
+        if (a > b) {
+            return a;
+        } else {
+            return b;
+        }
+    }
+
 }

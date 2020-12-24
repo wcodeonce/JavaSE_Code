@@ -20,9 +20,18 @@ package an.demo01;
 
 public class MethodDemo {
     public static void main(String[] args) {
-
+        //调用方法
+        isEvenNumber(5);
+        isEvenNumber(6);
     }
 
     //需求:定义一个方法,在方法中定义一个变量,判断该数据是否是偶数
-
+    public static void isEvenNumber(int a) {
+//        int a = 13;
+        if (a % 2 == 0) {
+            System.out.println(a + "是一个偶数");
+        } else {
+            System.out.println(a + "是一个奇数");
+        }
+    }
 }
