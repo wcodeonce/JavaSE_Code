@@ -15,9 +15,11 @@
       <module fileurl="file://$PROJECT_DIR$/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/myCollections/myCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDate/myDate.iml" filepath="$PROJECT_DIR$/myDate/myDate.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDebug/myDebug.iml" filepath="$PROJECT_DIR$/myDebug/myDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDiGui/myDiGui.iml" filepath="$PROJECT_DIR$/myDiGui/myDiGui.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDoual/myDoual.iml" filepath="$PROJECT_DIR$/myDoual/myDoual.iml" />
       <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFile/myFile.iml" filepath="$PROJECT_DIR$/myFile/myFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
