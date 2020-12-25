@@ -35,7 +35,7 @@ public class DiGuiDemo {
             那么,第n-1个月的兔子对数该如何表示？f（n-1）
             同理,第n-2个月的兔子对数该如何表示？f（n-2）
 
-        StackOverflowError
+        StackOverflowError:当堆栈溢出发生时抛出一个应用程序递归太深
      */
     public static int f(int n) {
 //        return f(n - 1) + f(n - 2);
