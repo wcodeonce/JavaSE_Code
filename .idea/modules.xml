@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/myMethod/myMethod.iml" filepath="$PROJECT_DIR$/myMethod/myMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/myModifier/myModifier.iml" filepath="$PROJECT_DIR$/myModifier/myModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/myObject/myObject.iml" filepath="$PROJECT_DIR$/myObject/myObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myOtherStream/myOtherStream.iml" filepath="$PROJECT_DIR$/myOtherStream/myOtherStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySet/mySet.iml" filepath="$PROJECT_DIR$/mySet/mySet.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
