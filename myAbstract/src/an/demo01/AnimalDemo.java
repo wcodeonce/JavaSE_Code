@@ -8,7 +8,5 @@ public class AnimalDemo {
 //        a.eat();
 
 
-
-
     }
 }
