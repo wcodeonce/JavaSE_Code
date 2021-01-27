@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/myInteger/myInteger.iml" filepath="$PROJECT_DIR$/myInteger/myInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/myLIst/myLIst.iml" filepath="$PROJECT_DIR$/myLIst/myLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLambda/myLambda.iml" filepath="$PROJECT_DIR$/myLambda/myLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMath/myMath.iml" filepath="$PROJECT_DIR$/myMath/myMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMethod/myMethod.iml" filepath="$PROJECT_DIR$/myMethod/myMethod.iml" />
