@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myExtends/myExtends.iml" filepath="$PROJECT_DIR$/myExtends/myExtends.iml" />
       <module fileurl="file://$PROJECT_DIR$/myFile/myFile.iml" filepath="$PROJECT_DIR$/myFile/myFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFunctionInterface/myFunctionInterface.iml" filepath="$PROJECT_DIR$/myFunctionInterface/myFunctionInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/myImport/myImport.iml" filepath="$PROJECT_DIR$/myImport/myImport.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
@@ -41,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/mySet/mySet.iml" filepath="$PROJECT_DIR$/mySet/mySet.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" filepath="$PROJECT_DIR$/mySimpleDateFormat/mySimpleDateFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStream/myStream.iml" filepath="$PROJECT_DIR$/myStream/myStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" filepath="$PROJECT_DIR$/myStringBuilder/myStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySystem/mySystem.iml" filepath="$PROJECT_DIR$/mySystem/mySystem.iml" />
